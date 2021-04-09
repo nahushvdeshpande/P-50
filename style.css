@@ -1,0 +1,42 @@
+.header{
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.firstrow{
+    display: flex;
+    justify-content: space-evenly;
+    } 
+    .camel{border: solid whitesmoke 5px;
+    border-radius: 10px;
+    background-color: bisque;
+    }
+    .chameleon{border: solid whitesmoke 5px;
+    border-radius: 10px;
+    background-color: bisque;
+    }
+    .pigeon{border: solid whitesmoke 5px;
+    border-radius: 10px;
+    background-color: bisque;
+    }
+    
+    .secondrow{
+        display: flex;
+        justify-content: space-evenly;
+        } 
+    .bear{border: solid whitesmoke 5px;
+    border-radius: 10px;
+    background-color: bisque;
+    }
+    .panda{border:solid whitesmoke 5px;
+    border-radius: 10px;
+    background-color: bisque;
+    }    
+    
+
+body{
+    background-color: aqua;
+}
